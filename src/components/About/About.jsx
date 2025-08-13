@@ -28,7 +28,7 @@ const About = () => {
             Innovation and driven Computer Engineering student puruuing Bachelor`s degree. Proficient in programming language such as HTML, Javascript, CSS, React.JS, Talwind CSS.
             I have good communication skills and can work effectively in a team and independently, with strong attention to detail.</p>
           {/* resume button */}
-          <a href="src\assets\resume\Prince_Udaviya_resume.pdf"
+          <a href="src\assets\resume\resume.jpg"
             download
             target='_blank'
             rel='noopener noreferrer'
