@@ -29,6 +29,7 @@ const About = () => {
             I have good communication skills and can work effectively in a team and independently, with strong attention to detail.</p>
           {/* resume button */}
           <a href="src\assets\resume\Prince_Udaviya_resume.pdf"
+            download
             target='_blank'
             rel='noopener noreferrer'
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
