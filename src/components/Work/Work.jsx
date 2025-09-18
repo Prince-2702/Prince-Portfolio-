@@ -1,7 +1,9 @@
 import React, { useState } from 'react'
 import img1 from '../../assets/images/E-commerce_website.png'
 import img2 from '../../assets/images/coffee_shop.png'
-import img3 from '../../assets/images/Dr.Drone_Medical.png'
+import img3 from '../../assets/images/Real-estate.png'
+import img4 from '../../assets/images/Foodies.png'
+import img5 from '../../assets/images/Car_rental.png'
 
 const projects = [
   {
@@ -24,12 +26,30 @@ const projects = [
   },
   {
     id: 2,
-    title: "Dr. Drone Medical",
+    title: "Real-Estate-website",
     decription: "A powerful and user friendly website.",
     img: img3,
-    tags: ['HTML', 'CSS', 'JavaScript'],
-    github: "https://github.com/Prince-2702/Dr.-Drone-MEdical.git",
-    webpage: "https://prince-2702.github.io/Dr.-Drone-MEdical/"
+    tags: ['HTML', 'CSS', 'JavaScript', 'React.JS', 'Tailwind CSS'],
+    github: "https://github.com/Prince-2702/Real-Estate-website",
+    webpage: "https://real-estate-website-gilt-beta.vercel.app/"
+  },
+  {
+    id: 3,
+    title: "Foodies_website",
+    decription: "A powerful and user friendly website.",
+    img: img4,
+    tags: ['HTML', 'CSS', 'JavaScript', 'React.JS'],
+    github: "https://github.com/Prince-2702/Foodies_website",
+    webpage: "https://foodies-website-eight.vercel.app/"
+  },
+  {
+    id: 4,
+    title: "Car-Rental",
+    decription: "A powerful and user friendly website.",
+    img: img5,
+    tags: ['HTML', 'CSS', 'JavaScript', 'React.JS', 'Tailwind CSS'],
+    github: "https://github.com/Prince-2702/Car-Rental",
+    webpage: "https://car-rental-iota-ruby.vercel.app/"
   }
 ]
 
